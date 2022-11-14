@@ -1,6 +1,6 @@
 Ethereum wallet balance checker created in React.js with Ethers.js.
 
-See live version and check out your ETH wallet balance: https://walletbalance.piotrmac.dev/
+See live version and check out your ETH wallet balance: https://ethwalletbalance.piotrmac.dev/
 
 See all dependencies installed by yarn:
 
